@@ -8,7 +8,7 @@ Skip the file browser and save precious seconds geting files into and out of you
 
 Installation
 
-- Get the latest vertexColorStylizer.py release in:  https://github.com/pixelbutterfly/quick_import_export_fbx
+- Get the latest quickImportExportFBX.py release in:  https://github.com/pixelbutterfly/quick_import_export_fbx
 - start Blender and open the user preferences
 - switch to the Add-ons tab and click the Install Add-on from file... button at the bottom
 - locate the downloaded QuickImportExportFBX.py file and double-click it
