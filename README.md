@@ -12,9 +12,7 @@ Installation
 
 - Get the latest quickImportExportFBX.py release in:  https://github.com/pixelbutterfly/quick_import_export_fbx
 - start Blender and open the user preferences
-- switch to the Add-ons tab and click the button at the top right.
-   -Pre-Blender 4 this will be a button that says "Install..."
-   -Post-Blender 4 it will be a little arrow with a dropdown to "Install from Disk..."
+- switch to the Add-ons tab and click the button at the top right. Pre-Blender 4 this will be a button that says "Install..." Post-Blender 4 it will be a little arrow with a dropdown to "Install from Disk..."
 - locate the downloaded QuickImportExportFBX.py file and click "Install Add-on"
 - search for the addon "Quick Import Export FBX"
 - activate the addon by ticking the checkbox
